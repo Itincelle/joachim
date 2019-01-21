@@ -1,3 +1,4 @@
-*.class
+Bonjour.class
 *.log
 build/
+test2
